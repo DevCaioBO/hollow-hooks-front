@@ -58,7 +58,7 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu computador:
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-projeto.git
+    git clone https://github.com/DevCaioBO/.git
     ```
 
 2. Navegue até o diretório do projeto:
