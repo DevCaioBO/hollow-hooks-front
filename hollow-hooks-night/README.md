@@ -24,7 +24,7 @@ Eu escolhi 3 hooks: useState, useEffect e useContext
 - **Funcionalidade**: Clique em um dos botões para fazer seu personagem "atacar ou regenerar".
 
 
-### Screenshot (se aplicável)
+
 
 <img width="959" height="374" alt="Captura de tela 2025-09-30 154944" src="https://github.com/user-attachments/assets/21805a1a-482a-4d73-a866-7ad6741f9644" />
 caminho-para-imagem.png)
